@@ -1,0 +1,54 @@
+/* html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  color: white;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  scroll-behavior: smooth;
+  background-color: #e3e3e3bf;
+} */
+
+/* html,
+body .fondo {
+  background-color: black;
+} */
+
+.customContainer {
+  max-width: 1000px;
+  padding: 2rem 1rem;
+}
+
+.title {
+  font-size: 25px;
+}
+
+.paragraph {
+  font-size: 18px;
+  line-height: 30px;
+}
+
+.smCopyButton {
+  border: 1px dashed #ffffff80 !important;
+}
+
+@media (min-width: 576px) {
+  .customContainer {
+    padding: 3rem 2rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .customContainer {
+    padding: 3rem 3rem;
+  }
+
+  .title {
+    font-size: 30px;
+  }
+
+  .paragraph {
+    font-size: 21px;
+    line-height: 35px;
+  }
+}
