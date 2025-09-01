@@ -37,6 +37,11 @@ export default function BuySection() {
           }}
         >
           <li>
+            Antes de efectuar la compra escribinos <u>natalia_rq@hotmail.com</u>{" "}
+            para coordinar la entrega. Si residís en el casco urbano de La
+            Plata, el envío es gratis; ya que es un producto platense.
+          </li>
+          <li>
             Efectuá la transferencia a la cuenta con los siguientes datos:
           </li>
           <ul>
@@ -62,10 +67,9 @@ export default function BuySection() {
               <u>Banco:</u> Banco de la Provincia de Buenos Aires
             </li>
           </ul>
+
           <li>
-            Compartinos el comprobante a <u>natalia_rq@hotmail.com</u> para que
-            podamos coordinar la entrega. Si residís en el casco urbano de La
-            Plata, el envío es gratis.
+            Compartinos el comprobante a <u>natalia_rq@hotmail.com</u>
           </li>
           <li>!Y listo! Ya estás listo para empezar a disfrutar del TV Box.</li>
         </ol>

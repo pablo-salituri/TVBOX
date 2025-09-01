@@ -30,8 +30,11 @@ export default function Home() {
             Disfrutá de una experiencia de streaming ultra fluida con resolución
             6K, conectividad WiFi 5G y acceso directo a tus apps favoritas como
             Netflix, YouTube, Magis TV, Kodi y más. Ideal para disfrutar de
-            series, películas, videos y contenido en vivo desde la comodidad de
-            tu hogar. <br />
+            series, películas,{" "}
+            <b>
+              <u>fútbol libre</u>
+            </b>
+            , videos y contenido en vivo desde la comodidad de tu hogar. <br />
             Incluye control remoto, fuente de alimentación, cable HDMI y es
             compatible con una amplia variedad de formatos multimedia.
             <br />
